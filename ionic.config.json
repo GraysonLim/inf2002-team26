@@ -1,0 +1,7 @@
+{
+  "name": "hci",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
